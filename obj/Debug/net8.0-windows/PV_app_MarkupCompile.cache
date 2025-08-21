@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\App.xaml
-5-1959889741
+3-1768430074
 
-111224579738
+9-727384425
 231-889294394
-MainWindow.xaml;Views\ErrorDialog.xaml;Views\Login.xaml;Views\LoginView.xaml;Views\LoginWindows.xaml;
+MainWindow.xaml;Views\ErrorDialog.xaml;Views\LoginView.xaml;
 
-True
+False
 

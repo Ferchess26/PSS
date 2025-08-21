@@ -146,12 +146,10 @@ C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.AssemblyInfoInputs.cache
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.AssemblyInfo.cs
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.csproj.CoreCompileInputs.cache
+C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.sourcelink.json
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.csproj.Up2Date
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.dll
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\refint\PV_app.dll
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.pdb
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\PV_app.genruntimeconfig.cache
 C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\ref\PV_app.dll
-C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\Views\LoginWindows.baml
-C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\Views\Login.g.cs
-C:\Users\Ferch\OneDrive\Documentos\VetVet\PV_app\obj\Debug\net8.0-windows\Views\LoginWindows.g.cs

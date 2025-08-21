@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PV_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ac207fef7a4f6d85e913d2d058d459ed51d1d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PV_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PV_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
